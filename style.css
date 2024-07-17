@@ -8,6 +8,10 @@ body{
 
 }
 
+#icon{
+    border-radius: 15%
+}
+
 #login-page{
     width: 400px;
     height: 70%;
